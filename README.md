@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @vivekjaiswar
-- 👀 I’m interested in Full Stack Developer
-- 🌱 I’m currently learning JS, React & Node
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me via LinkedIn, Instagram
+- 👀 I’m into Full Stack Development
+- 🌱 I’m currently working as DevOps Assistant Manager with the skills in JS, React & Node
+- 💞️ I’m looking to collaborate on uncoming projects
+- 📫 You can reach me via LinkedIn, Instagram
 
 
 <!---
